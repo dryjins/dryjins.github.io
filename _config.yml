@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "dryjins = Joseph Seungmin Jin"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "dryjins = Joseph Seungmin Jin"
 description              : "An amazing website."
 url                      : "https://dryjins.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
